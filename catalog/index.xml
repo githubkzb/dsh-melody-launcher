@@ -16,7 +16,8 @@
   <repository name="HuanLinOTO/dsh-plugin-anti-ads" branch="master" updated="2026-08-17T02:18:27Z" tags="plugin"/>
   <repository name="CARVIN94/dsh-router" branch="main" updated="2026-09-22T02:38:54Z" tags="plugin"/>
   <repository name="CARVIN94/dsh-router-traework" branch="main" updated="2026-09-22T02:11:12Z" tags="plugin"/>
-  <repository name="yjh051108/dsh-routing-suite" branch="main" updated="2026-08-22T09:05:29Z" tags="plugin,preset"/>
+  <repository name="yjh051108/dsh-routing-suite" branch="main" updated="2026-09-23T07:33:40Z" tags="plugin"/>
+  <repository name="iasiv5/dsh-skip-browser-auth" branch="main" updated="2026-09-18T03:17:39Z" tags="plugin"/>
   <repository name="zhu1090093659/dsh-web-ui" branch="dev" updated="2026-08-22T09:02:17Z" tags="plugin,skill"/>
   <repository name="edison7009/EchoBird" branch="main" updated="2026-08-22T08:47:29Z" tags="invalid"/>
   <repository name="EverMind-AI/EverOS" branch="main" updated="2026-08-22T08:40:58Z" tags="plugin,skill"/>
